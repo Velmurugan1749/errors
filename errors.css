@@ -1,0 +1,54 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+h2 a{
+    
+    margin-left: 450px;
+
+}
+h2 a:hover{
+    color: #b30000;
+}
+
+table{
+    border: 3px solid white;
+    border-collapse: collapse;
+    width: 500px;
+    margin-left: 390px;
+}
+table td{
+    border: 5px solid yellow;
+    padding: 7px;
+}
+.n1,#n1
+{
+    background-color: rgb(32, 135, 133);
+}  
+.n2,#n2{
+    background-color: #b30000;
+}
+#n3,.n3
+{
+    background-color: rgba(50, 206, 211, 0.315);
+}
+.n4{
+    background-color: blue;
+}
+.n5{
+    background-color: green;
+}
+.n6{
+    background-color: black;
+    color: white;
+}
+.n7{
+    background-color: orange;
+}
+.n8{
+    background-color: blue;
+}
+.n9{
+    background-color: blueviolet;
+}
